@@ -1,8 +1,8 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "Varleva.aternos.me",
+    "port": "9898",
     "password": "",
-    "prefix": "",
+    "prefix": "BaiPenchoBot69",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
